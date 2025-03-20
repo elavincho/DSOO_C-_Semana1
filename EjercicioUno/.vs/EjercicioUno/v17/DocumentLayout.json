@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tecnicatura IT\\7. Desarrollo de Sistemas Orientado a Objetos\\1. Semana 1\\Ejercicios_Semana_1\\EjercicioUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC19CF0C-4E55-41FE-AE6E-4E7B6A738110}|EjercicioUno\\EjercicioUno.csproj|d:\\tecnicatura it\\7. desarrollo de sistemas orientado a objetos\\1. semana 1\\ejercicios_semana_1\\ejerciciouno\\ejerciciouno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC19CF0C-4E55-41FE-AE6E-4E7B6A738110}|EjercicioUno\\EjercicioUno.csproj|solutionrelative:ejerciciouno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tecnicatura IT\\7. Desarrollo de Sistemas Orientado a Objetos\\1. Semana 1\\Ejercicios_Semana_1\\EjercicioUno\\EjercicioUno\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioUno\\Program.cs",
+              "ToolTip": "D:\\Tecnicatura IT\\7. Desarrollo de Sistemas Orientado a Objetos\\1. Semana 1\\Ejercicios_Semana_1\\EjercicioUno\\EjercicioUno\\Program.cs",
+              "RelativeToolTip": "EjercicioUno\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:23:46.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
