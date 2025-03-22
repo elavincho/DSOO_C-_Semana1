@@ -1,0 +1,15 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\bin\Debug\net8.0\EjercicioCuatro.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\bin\Debug\net8.0\EjercicioCuatro.deps.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\bin\Debug\net8.0\EjercicioCuatro.runtimeconfig.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\bin\Debug\net8.0\EjercicioCuatro.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\bin\Debug\net8.0\EjercicioCuatro.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.AssemblyInfoInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.AssemblyInfo.cs
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.sourcelink.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\refint\EjercicioCuatro.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\EjercicioCuatro.genruntimeconfig.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCuatro\EjercicioCuatro\obj\Debug\net8.0\ref\EjercicioCuatro.dll
