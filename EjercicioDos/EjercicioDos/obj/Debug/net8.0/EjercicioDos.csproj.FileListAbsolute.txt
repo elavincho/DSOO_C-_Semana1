@@ -1,0 +1,15 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\bin\Debug\net8.0\EjercicioDos.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\bin\Debug\net8.0\EjercicioDos.deps.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\bin\Debug\net8.0\EjercicioDos.runtimeconfig.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\bin\Debug\net8.0\EjercicioDos.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\bin\Debug\net8.0\EjercicioDos.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.AssemblyInfoInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.AssemblyInfo.cs
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.sourcelink.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\refint\EjercicioDos.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\EjercicioDos.genruntimeconfig.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioDos\EjercicioDos\obj\Debug\net8.0\ref\EjercicioDos.dll

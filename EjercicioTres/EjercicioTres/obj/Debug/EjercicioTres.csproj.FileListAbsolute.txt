@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\bin\Debug\EjercicioTres.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\bin\Debug\EjercicioTres.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\bin\Debug\EjercicioTres.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\obj\Debug\EjercicioTres.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\obj\Debug\EjercicioTres.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\obj\Debug\EjercicioTres.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioTres\EjercicioTres\obj\Debug\EjercicioTres.pdb
