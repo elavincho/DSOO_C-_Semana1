@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\bin\Debug\EjercicioCinco.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\bin\Debug\EjercicioCinco.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\bin\Debug\EjercicioCinco.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\obj\Debug\EjercicioCinco.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\obj\Debug\EjercicioCinco.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\obj\Debug\EjercicioCinco.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioCinco\EjercicioCinco\obj\Debug\EjercicioCinco.pdb
