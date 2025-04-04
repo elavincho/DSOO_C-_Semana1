@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\bin\Debug\VerTele.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\bin\Debug\VerTele.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\bin\Debug\VerTele.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\obj\Debug\VerTele.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\obj\Debug\VerTele.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\obj\Debug\VerTele.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\3. Semana 3 - El entorno y sus metodos\Ejercicios\VerTele\VerTele\obj\Debug\VerTele.pdb
